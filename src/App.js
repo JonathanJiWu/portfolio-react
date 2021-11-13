@@ -1,9 +1,11 @@
-
+import Contact from "./components/contact/Contact";
+import Topbar from "./components/topbar/Topbar";
 
 function App() {
   return (
     <div className="App">
-      hehe
+      <Topbar />
+      <Contact />
     </div>
   );
 }
