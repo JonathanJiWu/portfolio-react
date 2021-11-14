@@ -1,9 +1,9 @@
-import './topbar.scss'
+import './/topbar.scss'
 
 const Topbar = () => {
     return (
-        <div>
-            ghvch
+        <div className="topbar">
+            
         </div>
     );
 }
